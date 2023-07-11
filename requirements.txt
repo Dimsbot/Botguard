@@ -13,7 +13,7 @@ humanfriendly
 python-ffmpeg==2.0.4
 gpytranslate==1.5.1
 httpx[http2]>=0.18.1,<1.0.0
-yt-dlp==2023.3.4
+yt-dlp==2023.7.6
 Pillow>=8.4.0,<10.0.0
 
 # Others
